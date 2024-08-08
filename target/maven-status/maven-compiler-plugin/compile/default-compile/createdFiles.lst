@@ -1,0 +1,3 @@
+com\mycompany\java\process\management\JavaProcessManagement.class
+dal\ProcessManagementDAL.class
+bll\ProcessManagementBLL.class
